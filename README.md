@@ -1,1 +1,2 @@
-# NOTE_ARCHIVE
+# journy to Mechine learning
+
