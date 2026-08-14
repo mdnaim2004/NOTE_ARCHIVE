@@ -1,2 +1,1 @@
 # journy to Mechine learning
-
